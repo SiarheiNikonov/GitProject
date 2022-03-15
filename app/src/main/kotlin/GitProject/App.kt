@@ -6,7 +6,7 @@ package GitProject
 class App {
     val greeting: String
         get() {
-            return "Hello world!"
+            return "Good bye world!"
         }
 }
 
