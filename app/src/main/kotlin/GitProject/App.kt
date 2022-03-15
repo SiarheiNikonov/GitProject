@@ -9,7 +9,7 @@ class App {
             return "Hello world!"
         }
     val someText= "some text"
-    val someText1= "some text14"
+    val someText1= "some text144"
 }
 
 fun main() {
